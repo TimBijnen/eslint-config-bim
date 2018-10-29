@@ -1,0 +1,26 @@
+{
+  "name": "eslint-config-bim",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TimBijnen/eslint.git"
+  },
+  "keywords": [
+    "eslint",
+    "config"
+  ],
+  "author": "Tim Bijnen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TimBijnen/eslint/issues"
+  },
+  "homepage": "https://github.com/TimBijnen/eslint#readme",
+  "peerDependencies": {
+    "eslint": ">= 3"
+  }
+}
